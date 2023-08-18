@@ -1,0 +1,4 @@
+{
+    "extends":["@arcticShadow/eslint-config/src/node"],
+    "ignorePatterns":["dist/*"]
+}

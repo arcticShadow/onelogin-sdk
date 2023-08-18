@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    }
+}

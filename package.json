@@ -1,0 +1,24 @@
+{
+  "name": "onelogin",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "authorize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc; node "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^13.0.0",
+    "oauth-v2-client": "^1.2.1"
+  },
+  "devDependencies": {
+    "@arcticShadow/eslint-config": "npm:@arcticshadow/eslint-config@^1.1.0",
+    "@types/node": "^18.17.3",
+    "@types/ramda": "^0.29.3",
+    "ramda": "^0.29.0",
+    "typescript": "^5.1.6"
+  }
+}
